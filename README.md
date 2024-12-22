@@ -57,8 +57,10 @@ endmodule
 ![Screenshot 2024-12-22 174934](https://github.com/user-attachments/assets/0e03dc0c-8d41-4212-bf0e-79f347263717)
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
+
 ![Screenshot 2024-12-22 174951](https://github.com/user-attachments/assets/491fe5f7-24ec-4e55-8208-73c8d4f12fd8)
 
 
 **RESULTS**
+
 The implement of D flipflop using verilog and validating their functionality using their functional tables is verified
