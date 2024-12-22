@@ -61,3 +61,4 @@ endmodule
 
 
 **RESULTS**
+The implement of D flipflop using verilog and validating their functionality using their functional tables is verified
